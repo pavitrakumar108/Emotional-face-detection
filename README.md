@@ -1,3 +1,3 @@
-# Emotion_Detection_CNN
-
-Data Set Link - https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+This is project focus on detecting the realtime facial expression.
+INPUT = Image 
+OUTPUT = Facial expression (Happy, Sad etc..)
